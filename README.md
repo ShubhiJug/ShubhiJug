@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhiJug
 - 👀 I’m interested in JAVA, Python, C, Android development, React, HTML, CSS, Javascript
 - 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on Android Projects
+- 💞️ I’m looking to collaborate on Android Projects and Software Development
 
 
 <!---
